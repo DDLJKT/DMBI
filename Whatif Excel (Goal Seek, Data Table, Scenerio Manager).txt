@@ -1,0 +1,34 @@
+1. Using Goal Seek in Excel
+
+Open Microsoft Excel and create a table with some numerical data.
+Click on the Data tab.
+Under What-If Analysis, select Goal Seek.
+In the Goal Seek window:
+Set Cell → Select the cell where the changed value will be displayed.
+To Value → Enter the target value.
+By Changing Cell → Select the input cell that should be adjusted.
+Click OK and then OK again in the Goal Seek Status window.
+The output will be updated based on the calculations.
+
+
+2. Using Data Table in Excel
+
+Select the table in Excel where you want to analyze multiple inputs.
+Go to the Data tab and select What-If Analysis → Data Table.
+In the Data Table window:
+Row Input Cell → Enter the reference cell for row changes.
+Column Input Cell → Enter the reference cell for column changes.
+Click OK.
+The result will be displayed, showing the impact of different inputs in both rows and columns.
+
+
+3. Using Scenario Manager in Excel
+
+Go to the Data tab → Select What-If Analysis → Scenario Manager.
+Click Add to create a new scenario.
+Enter:
+Scenario Name (e.g., "Best Case" or "Worst Case").
+Changing Cells (Select the cells whose values will change).
+Click OK, then enter values for each column in the scenario.
+Click Add to create multiple scenarios if needed.
+Select a scenario and click Show to apply and see its effect on the table.
